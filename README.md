@@ -64,4 +64,4 @@ The model generates a unique image based on the provided text description.
 Mahammad Aakhil
 
 ## GitHub Repository
-Add your repository link here.
+https://github.com/mahammadaakhil-cmd/Image_Generation_Using_Stable_Diffusion/tree/main
